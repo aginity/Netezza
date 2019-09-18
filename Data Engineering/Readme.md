@@ -7,7 +7,7 @@
 
 
 
-### The table below details all queries within the [Aginity-Pro-Netezza-Data-Engineering-Set1.aginitypkg]() package.
+### The table below details all queries within the [Aginity-Pro-Netezza-Data-Engineering-Set1.aginitypkg](https://github.com/aginity/Netezza/blob/master/Data%20Engineering/Aginity-Pro-Netezza-Data-Engineering-Set1.aginitypkg) package.
 
 |Catalog Item Name               |Catalog Item Description            | Example    |
 |--------------------------|------------------------------------|--------------------|

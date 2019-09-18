@@ -7,7 +7,7 @@
 
 
 
-### The table below details all queries within the [Aginity-Pro-Netezza-Admin-Set1]() package.
+### The table below details all queries within the [Aginity-Pro-Netezza-Admin-Set1](https://github.com/aginity/Netezza/blob/master/Administrative%20Query%20Packages/Aginity-Pro-Netezza-Admin-Set1.aginitypkg) package.
 
 |Catalog Item Name               |Catalog Item Description            | Required Table     |
 |--------------------------|------------------------------------|--------------------|
